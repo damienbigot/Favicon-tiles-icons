@@ -4,8 +4,15 @@
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 ```
 
+###Image Size
+- 16x16
+- 24x24
+- 32x32
+- 64x64
+
 ### Reference
 > [What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) _on MDN_
+> [Customizing the Site Icon](https://msdn.microsoft.com/en-us/library/gg491740(v=vs.85).aspx) _on MSDN_
 
 <br />
 
