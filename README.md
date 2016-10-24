@@ -8,7 +8,7 @@
 
 -
 
-# Pinned site _(Windows 8 & 10)_
+# Pinned Site _(Windows 8 & 10)_
 ```
 <meta name="msapplication-square150x150logo" content="images/logo.png">
 <meta name="msapplication-square310x310logo" content="images/largelogo.png">
