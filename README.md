@@ -7,7 +7,7 @@
 ### Reference
 > [What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) _on MDN_
 
--
+<br />
 
 # Pinned Site _(Windows 8 & 10)_
 ### Code
@@ -27,6 +27,7 @@ or
 > [Pinned site metadata reference](https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx) _on MSDN_
 
 
+<br />
 
 # Pinned Tab Icons _(OS X El Capitan)_
 ### Code
