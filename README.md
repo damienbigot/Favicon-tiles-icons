@@ -30,10 +30,10 @@
 ```
 
 ###Image size
-- 70x70
-- 150x150
-- 310x150
-- 310x310
+- 70x70 / 128x128
+- 150x150 / 270x270
+- 310x150 / 558x270
+- 310x310 / 558x558
 
 ### Reference
 > [Pinned site metadata reference](https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx) _on MSDN_
