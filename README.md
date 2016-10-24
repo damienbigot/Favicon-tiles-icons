@@ -41,7 +41,7 @@
 
 <br />
 
-# Pinned Tab Icons _(OS X El Capitan)_
+# Pinned Tab Icons _(Safari on OS X El Capitan)_
 ### Code
 
 ```
@@ -53,3 +53,34 @@
 
 ### Reference
 > [Creating Pinned Tab Icons](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html) _on Apple Developer_
+
+
+<br />
+
+# Webpage Icon _(Safari on iOS 6, 7 & 8+)_
+### Code
+
+```
+<link rel="apple-touch-icon" href="/custom_icon.png">
+```
+
+```
+<link rel="apple-touch-icon" href="touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png">
+```
+
+###Image size
+- 57x57
+- 60x60
+- 72x72
+- 76x76
+- 114x144
+- 120x120
+- 144x144
+- 152x152
+- 180x180
+
+### Reference
+> [Configuring Web Applications](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html) _on Apple Developer_
