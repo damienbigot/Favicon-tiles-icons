@@ -8,6 +8,10 @@
 
 
 
+
+
+
+
 # Pinned site _(Windows 8 & 10)_
 ```
 <meta name="msapplication-square150x150logo" content="images/logo.png">
