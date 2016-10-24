@@ -5,7 +5,7 @@
 ```
 
 ### Reference
-> [What’s in the head? Metadata in HTML _on MDN_](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site)
+> [What’s in the head? Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML#Adding_custom_icons_to_your_site) _on MDN_
 
 -
 
@@ -24,7 +24,7 @@ or
 ```
 
 ### Reference
-> [Pinned site metadata reference _on MSDN_](https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx)
+> [Pinned site metadata reference](https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx) _on MSDN_
 
 
 
@@ -36,4 +36,4 @@ or
 ```
 
 ### Reference
-> [Creating Pinned Tab Icons _on Apple Developer_](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html)
+> [Creating Pinned Tab Icons](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/pinnedTabs/pinnedTabs.html) _on Apple Developer_
