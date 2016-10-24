@@ -23,9 +23,9 @@ or
 
 ### Source
 [Pinned site metadata reference _on MSDN_](https://msdn.microsoft.com/en-us/library/dn255024(v=vs.85).aspx)
-
--
-
+__
+__
+__
 # Pinned Tab Icons _(OS X El Capitan)_
 
 ```
